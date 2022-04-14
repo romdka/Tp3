@@ -1,0 +1,3 @@
+1) Un service Web met à disposition un service via Internet. Il constitue ainsi une interface permettant à deux machines (ou applications) de communiquer. Il existe des applications client/serveur qui proposent  de deporter les composants d'interface sur les postes de travail  en conservant des serveurs pour la persistance (mécanisme responsable de la sauvegarde et de la restauration des données)
+
+2) Une API REST (également appelée API RESTful) est une interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful.
